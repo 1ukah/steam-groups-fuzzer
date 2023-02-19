@@ -1,2 +1,5 @@
 # steam-groups-fuzzer
- Fuzzer script to get steam groups index
+Getting steam groups index using fuzzing. 
+
+# Credits
+All the credits goes to: [@b1scoito](https://github.com/b1scoito/)
