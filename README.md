@@ -6,10 +6,6 @@ A script to get the index of Steam groups using fuzzing techniques.
 - Index and organize the collected data.
 - Automate the process of gathering information from multiple groups.
 
-## Credits
-
 All the credits go to [b1scoito](https://github.com/b1scoito/).
-
-## Status
 
 Not in active development.
