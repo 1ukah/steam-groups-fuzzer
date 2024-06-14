@@ -1,3 +1,5 @@
+A script to get the index of Steam groups using fuzzing techniques.
+
 ## Features
 
 - Scrape data from Steam groups.
